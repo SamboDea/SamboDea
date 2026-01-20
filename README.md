@@ -43,7 +43,7 @@ A passionate programmer driven to make the world a better place through technolo
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
      width="35" height="35" alt="GitHub"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="35" height="35" alt="GitLab"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="35" height="35" alt="Figma"/>
