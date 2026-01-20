@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <h1 align="center">Hi, I'm Sambo Dea</h1>
 <h3 align="center">
 A passionate programmer driven to make the world a better place through technology.
@@ -13,7 +12,7 @@ A passionate programmer driven to make the world a better place through technolo
 
 ---
 
-### <i class="fa-solid fa-laptop"></i> Frontend 
+### Frontend 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35" height="35" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35" height="35" alt="CSS3"/>
@@ -26,7 +25,7 @@ A passionate programmer driven to make the world a better place through technolo
 
 ---
 
-### ⚙️ Backend 
+### Backend 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="35" height="35" alt="PHP"/>
   <img src="https://iconlogovector.com/uploads/images/2024/11/sm-673f0b6fe65c4-Laravel.webp" width="35" height="35" alt="Laravel"/>
@@ -34,7 +33,7 @@ A passionate programmer driven to make the world a better place through technolo
 
 ---
 
-### <i class="fa-solid fa-database"></i> Databases
+### Databases
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="35" height="35" alt="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35" height="35" alt="MongoDB"/>
@@ -42,7 +41,7 @@ A passionate programmer driven to make the world a better place through technolo
 
 ---
 
-### <i class="fa-solid fa-gears"></i>  Tools & Platforms
+### Tools & Platforms
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"
      width="35" height="35" alt="GitHub"/>
