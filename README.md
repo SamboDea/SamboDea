@@ -15,7 +15,7 @@
 
 ---
 
-## 🧩 Core Stack
+## Core Stack
 
 ### Frontend
 <p>
@@ -43,7 +43,7 @@
 
 ---
 
-## 🛠 Developer Tools
+## Developer Tools
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40"/>
