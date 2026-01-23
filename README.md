@@ -49,6 +49,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dbeaver/dbeaver-icon.svg" width="40" alt="DBeaver"/>
+  <img src="https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg" width="40" alt="Swagger"/>
 </p>
 
 ---
