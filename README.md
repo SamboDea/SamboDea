@@ -1,51 +1,72 @@
-<h1 align="center">Hi, I'm Sambo Dea</h1>
-<h3 align="center">
-A passionate programmer driven to make the world a better place through technology.
-</h3>
+<h1 align="center">Sambo Dea</h1>
+<p align="center">
+  Junior Web Developer • Frontend Focused • Lifelong Learner
+</p>
 
----
-
-### 👨‍💻 About Me
-- 🔭 Currently working as a **Junior Web Developer**
-- 🌱 Currently learning **TypeScript** and **React Js**
-- 📫 Contact me at **sambodea54@gmail.com**
-
----
-
-### Frontend 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35" height="35" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35" height="35" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="35" height="35" alt="Bootstrap 5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35" height="35" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35" height="35" alt="ReactJS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="35" height="35" alt="VueJS"/>
+<p align="center">
+  <a href="mailto:sambodea54@gmail.com">📧 sambodea54@gmail.com</a>
 </p>
 
 ---
 
-### Backend 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="35" height="35" alt="PHP"/>
-  <img src="https://iconlogovector.com/uploads/images/2024/11/sm-673f0b6fe65c4-Laravel.webp" width="35" height="35" alt="Laravel"/>
-</p>
+## ✨ Profile Snapshot
+> I am a junior web developer passionate about crafting clean, scalable, and user-centric web applications.  
+> I enjoy learning modern JavaScript frameworks and turning ideas into real products.
 
 ---
+
+## 🧩 Core Stack
+
+### Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="42"/>
+</p>
+
+### Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="42"/>
+</p>
 
 ### Databases
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="35" height="35" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35" height="35" alt="MongoDB"/>
+<p>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42"/>
 </p>
 
 ---
 
-### Tools & Platforms
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-     width="35" style="background:white;border-radius:50%" height="35" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="35" height="35" alt="GitLab"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="35" height="35" alt="Figma"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35" height="35" alt="Postman"/>
+## 🛠 Developer Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+- Improving **TypeScript** proficiency
+- Building projects with **React & Next.js**
+- Writing clean, maintainable code
+
+---
+
+## 📌 Personal Values
+- Clean code over quick hacks  
+- Learning by building  
+- Consistency beats intensity  
+
+---
+
+<p align="center">
+  <sub>Open to internships, junior roles, and collaboration</sub>
 </p>
